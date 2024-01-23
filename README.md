@@ -1,4 +1,4 @@
-#URLとは何か
+# URLとは何か
 WEBサイトのページがどこに位置するのかを示す「アドレス」的な意味合いで利用される。
 URN（Uniform Resource Name）と合わせてURIと呼ばれる。
 
